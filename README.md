@@ -1,1 +1,1 @@
-# cooking_boil
+# object_detection_demo
